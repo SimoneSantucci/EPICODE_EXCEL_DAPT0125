@@ -1,0 +1,37 @@
+Circuit_ID,Circuit Name,Length (km),Location,Inauguration Year,Circuit Type,Key Features
+1,Australia,5303,"Melbourne, Australia",1996,Street Circuit,"Fast and technical, weather variability"
+2,Malaysia,5543,"Sepang, Malaysia",1999,Permanent Circuit,"Hot and humid, fast corners"
+3,Bahrain,5412,"Sakhir, Bahrain",2004,Permanent Circuit,"Variable weather, good visibility"
+4,China,5451,"Shanghai, China",2004,Permanent Circuit,"Long first corner, variable weather"
+5,Spain,4655,"Barcelona, Spain",1991,Permanent Circuit,Technical circuit with many corners
+6,Monaco,3337,"Monte Carlo, Monaco",1929,Street Circuit,"Very narrow, requires precision"
+7,Canada,4361,"Montreal, Canada",1978,Street Circuit,Fast circuit with high-speed sections
+8,Austria,4318,"Spielberg, Austria",1969,Permanent Circuit,Short but technical layout
+9,Great Britain,5891,"Silverstone, UK",1950,Permanent Circuit,"Historic, lots of changes in direction"
+10,Germany,5148,"Hockenheim, Germany",1970,Permanent Circuit,Fast corners and long straights
+11,Hungary,4381,"Budapest, Hungary",1986,Permanent Circuit,Technical and difficult for overtaking
+12,Belgium,7004,"Spa-Francorchamps, Belgium",1921,Permanent Circuit,"Iconic Eau-Rouge, variable weather"
+13,Italy,5793,"Monza, Italy",1950,Permanent Circuit,Fastest circuit in the calendar
+14,Singapore,5063,"Singapore, Singapore",2008,Street Circuit,"Night race, humid conditions"
+15,Japan,5807,"Suzuka, Japan",1987,Permanent Circuit,"Highly technical, famous ""S"" curve"
+16,Russia,5848,"Sochi, Russia",2014,Street Circuit,"Coastal circuit, many fast corners"
+17,United States,5516,"Austin, Texas, USA",2012,Permanent Circuit,"Modern, very technical"
+18,Brazil,4309,"São Paulo, Brazil",1990,Permanent Circuit,"Exciting circuit, often rainy"
+19,Abu Dhabi,5281,"Yas Marina, Abu Dhabi",2009,Permanent Circuit,"Night race, slow and fast corners"
+20,Mexico,4304,"Mexico City, Mexico",1967,Permanent Circuit,"High altitude, warm climate"
+21,Europe,5555,"Valencia, Spain (or Europe)",2008,Street Circuit,"Unusual layout, tight street circuit"
+22,Azerbaijan,6003,"Baku, Azerbaijan",2016,Street Circuit,"Long straights, challenging for overtaking"
+23,France,5842,"Le Castellet, France",1990,Permanent Circuit,"High aerodynamic load, abrasive asphalt"
+24,Styria,4318,"Spielberg, Austria",2020,Permanent Circuit,"Modern, tight layout"
+25,70th Anniversary,5891,"Silverstone, UK",2020,Permanent Circuit,"Special event, classic layout"
+26,Tuscany,5245,"Mugello, Italy",2020,Permanent Circuit,"Very technical, scenic"
+27,Eifel,5148,"Nürburgring, Germany",1927,Permanent Circuit,Mix of high speed and technical corners
+28,Portugal,4684,"Portimão, Portugal",2020,Permanent Circuit,"New but already popular, fast corners"
+29,Emilia Romagna,4909,"Imola, Italy",1980,Permanent Circuit,"Technical, narrow layout"
+30,Turkey,5338,"Istanbul, Turkey",2005,Permanent Circuit,"Tight and technical, lots of changes"
+31,Sakhir,5412,"Bahrain, Sakhir",2020,Permanent Circuit,New layout used only for the season
+32,Netherlands,4259,"Zandvoort, Netherlands",1952,Permanent Circuit,"High speed, many banked corners"
+33,Qatar,5380,"Losail, Qatar",2021,Permanent Circuit,"Desert circuit, technical layout"
+34,Saudi Arabia,6174,"Jeddah, Saudi Arabia",2021,Street Circuit,"Fast, scenic views, many corners"
+35,Miami,5412,"Miami, USA",2022,Street Circuit,"New addition, fast and technical"
+36,Las Vegas,6120,"Las Vegas, USA",2023,Street Circuit,"Night race, highly technical"
