@@ -1,0 +1,64 @@
+Driver_ID,Driver,Abbreviation,Country,World_Championships,Date_of_Birth
+1,Nico Rosberg,ROS,"Wiesbaden, West Germany",1,1985-06-27
+2,Daniel Ricciardo,RIC,"Perth, Australia",0,1989-07-01
+3,Kevin Magnussen,MAG,"Roskilde, Denmark",0,1992-10-05
+4,Jenson Button,BUT,"Frome, England",1,1980-01-19
+5,Fernando Alonso,ALO,"Oviedo, Spain",2,1981-07-29
+6,Valtteri Bottas,BOT,"Nastola, Finland",0,1989-08-28
+7,Nico Hulkenberg,HUL,"Emmerich am Rhein, West Germany",0,1987-08-19
+8,Kimi Raikkönen,RAI,"Espoo, Finland",1,1979-10-17
+9,Jean-Eric Vergne,VER,"Pontoise, France",0,1990-04-25
+10,Daniil Kvyat,KVY,"Ufa, Russia",0,1994-04-26
+11,Sergio Perez,PER,"Guadalajara, Mexico",0,1990-01-26
+12,Adrian Sutil,SUT,"Starnberg, West Germany",0,1983-01-11
+13,Esteban Gutierrez,GUT,"Monterrey, Mexico",0,1991-08-05
+14,Max Chilton,CHI,"Reigate, England",0,1991-04-21
+15,Jules Bianchi,BIA,"Nice, France",0,1989-08-03
+16,Romain Grosjean,GRO,"Geneva, Switzerland",0,1986-04-17
+17,Pastor Maldonado,MAL,"Maracay, Venezuela",0,1985-03-09
+18,Marcus Ericsson,ERI,"Kumla, Sweden",0,1990-09-02
+19,Sebastian Vettel,VET,"Heppenheim, West Germany",4,1987-07-03
+20,Lewis Hamilton,HAM,"Stevenage, England",7,1985-01-07
+21,Felipe Massa,MAS,"São Paulo, Brazil",0,1981-04-25
+22,Kamui Kobayashi,KOB,"Amagasaki, Japan",0,1986-09-13
+23,Andre Lotterer,LOT,"Duisburg, West Germany",0,1981-11-19
+24,Will Stevens,STE,"Rochford, England",0,1991-06-28
+25,Felipe Nasr,NAS,"Brasília, Brazil",0,1992-08-21
+26,Carlos Sainz,SAI,"Madrid, Spain",0,1994-09-01
+27,Max Verstappen,VER,"Hasselt, Belgium",4,1997-09-30
+28,Roberto Merhi,MER,"Castellón, Spain",0,1991-03-22
+29,Alexander Rossi,ROS,"Nevada City, California, USA",0,1991-09-25
+30,Jolyon Palmer,PAL,"Horsham, England",0,1991-01-20
+31,Pascal Wehrlein,WEH,"Sigmaringen, Germany",0,1994-10-18
+32,Rio Haryanto,HAR,"Surakarta, Indonesia",0,1993-01-22
+33,Stoffel Vandoorne,VAN,"Kortrijk, Belgium",0,1992-03-26
+34,Esteban Ocon,OCO,"Évreux, France",0,1996-09-17
+35,Antonio Giovinazzi,GIO,"Martina Franca, Italy",0,1993-12-14
+36,Lance Stroll,STR,"Montreal, Canada",0,1998-10-29
+37,Daniil Kyvat,KVY,"Ufa, Russia",0,1994-04-26
+38,Paul di Resta,DIR,"Uphall, Scotland",0,1986-04-16
+39,Pierre Gasly,GAS,"Rouen, France",0,1996-02-07
+40,Brendon Hartley,HAR,"Palmerston North, NZ",0,1989-11-10
+41,Charles Leclerc,LEC,"Monte Carlo, Monaco",0,1997-10-16
+42,Sergey Sirotkin,SIR,"Moscow, Russia",0,1995-08-27
+43,Lando Norris,NOR,"Bristol, England",0,1999-11-13
+44,Alexander Albon,ALB,"London, England",0,1996-03-23
+45,George Russell,RUS,"King's Lynn, England",0,1998-02-15
+46,Robert Kubica,KUB,"Kraków, Poland",0,1984-12-07
+47,Nicholas Latifi,LAT,"Montreal, Canada",0,1995-06-29
+48,Jack Aitken,AIT,"London, England",0,1995-09-23
+49,Pietro Fittipaldi,FIT,"Miami, Florida, USA",0,1996-06-25
+50,Yuki Tsunoda,TSU,"Sagamihara, Japan",0,2000-05-11
+51,Mick Schumacher,MSC,"Vufflens-le-Château, Switzerland",0,1999-03-22
+52,Nikita Mazepin,MAZ,"Moscow, Russia",0,1999-03-02
+53,Guanyu Zhou,ZHO,"Shanghai, China",0,1999-05-30
+54,Nyck De Vries,DEV,"Sneek, Netherlands",0,1995-02-06
+55,Logan Sargeant,SAR,"Fort Lauderdale, Florida, USA",0,2000-12-31
+56,Oscar Piastri,PIA,"Melbourne, Australia",0,2001-04-06
+57,Liam Lawson,LAW,"Hastings, NZ",0,2002-02-11
+58,Oliver Bearman,BEA,"Chelmsford, England",0,2005-05-08
+59,Franco Colapinto,COL,"Pilar, Buenos Aires",0,2003-05-27
+60,Jack Doohan,DOO,"Gold Coast, Australia",0,2003-01-20
+61,Kimi Antonelli,ANT,"Bologna, Italy",0,2006-08-25
+62,Gabriel Bortoleto,BOR,"São Paulo, Brazil",0,2004-10-14
+63,Isack Hadjar,HAD,"Paris, France",0,2004-09-28
